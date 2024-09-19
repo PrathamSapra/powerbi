@@ -49,6 +49,7 @@ With intuitive design and high-impact visuals, the dashboard provides instant cl
 - **Power BI Desktop** for data modeling and visualization.
 - **DAX (Data Analysis Expressions)** for custom calculations and metrics.
 - **Interactive Visuals** to provide a fluid, engaging user experience.
+- **Excel** The Data is taken from a Virtual Basic Application made in an Excel file.
 
 ---
 
